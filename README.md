@@ -17,12 +17,12 @@ title To-Do-Liste
 echo **************************************
 echo *            To-Do-Liste             *
 echo ***********************************-->
--->
+->
 Erklärung:
 
-    Die erste Zeile @echo off deaktiviert die Anzeige der Befehle in der Eingabeaufforderung, damit der Benutzer nur die Ausgabe sieht.
-    Die zweite Zeile title To-Do-Liste gibt dem Fenster -->
---> Um die To-Do-Liste zu verwenden, speichern Sie diesen Code als Textdatei mit der Erweiterung ".bat" und doppelklicken Sie auf die Datei, um sie auszuführen. Sie können dann Aufgaben hinzufügen, indem Sie sie eingeben, oder die Anwendung beenden, indem Sie "exit" eingeben. Die To-Do-Liste wird in der Datei "todo.txt" gespeichert, die sich im gleichen Verzeichnis wie die Batch-Datei befindet.
+Die erste Zeile @echo off deaktiviert die Anzeige der Befehle in der Eingabeaufforderung, damit der Benutzer nur die Ausgabe sieht.
+Die zweite Zeile title To-Do-Liste gibt dem Fenster -->
+-> Um die To-Do-Liste zu verwenden, speichern Sie diesen Code als Textdatei mit der Erweiterung ".bat" und doppelklicken Sie auf die Datei, um sie auszuführen. Sie können dann Aufgaben hinzufügen, indem Sie sie eingeben, oder die Anwendung beenden, indem Sie "exit" eingeben. Die To-Do-Liste wird in der Datei "todo.txt" gespeichert, die sich im gleichen Verzeichnis wie die Batch-Datei befindet.
 
 -----> [...]
 
