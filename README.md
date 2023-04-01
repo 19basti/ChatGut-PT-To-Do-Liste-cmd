@@ -5,7 +5,7 @@
   bastibond  https://github.com/bastibond
 #############
 Chat
-PChatGut PT
+P--ChatGut PT
 
 Eine To-Do-Liste in der Eingabeaufforderung (cmd) zu erstellen ist relativ einfach. Sie können ein Textdokument erstellen und es als Batch-Datei mit der Erweiterung ".bat" speichern. Hier ist ein Beispiel für eine einfache To-Do-Liste:
 
